@@ -1,0 +1,12 @@
+Generate flashcards for learning English vocabulary.
+
+For each word or phrase, create example sentences that demonstrate the usage.
+
+Front: English sentence with the target word or phrase highlighted in <b style="color:red;">red</b>
+Back: Russian translation of the sentence with the translated word/phrase also highlighted in <b style="color:red;">red</b><br><br>Add a brief definition or usage note in English
+
+Requirements:
+- Use natural, conversational sentences
+- Show different contexts if generating multiple cards
+- Keep sentences concise but meaningful
+- Ensure translations are accurate and natural

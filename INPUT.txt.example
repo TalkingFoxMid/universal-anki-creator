@@ -1,0 +1,12 @@
+# Example input file for Anki generator
+# Lines starting with # are comments and will be ignored
+# Empty lines are also ignored
+
+# English vocabulary examples:
+busy
+to hand over
+to pursue
+resilient
+
+# You can add more items - one per line
+# The format depends on your PROMPT.md
