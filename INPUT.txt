@@ -1,0 +1,350 @@
+1 	make a decision 	We need to make a decision soon.
+2 	make a mistake 	Everyone makes mistakes sometimes.
+3 	make progress 	The team is making good progress.
+4 	make money 	She makes a lot of money.
+5 	make an effort 	Make an effort to be on time.
+6 	make a difference 	Small actions can make a difference.
+7 	make a choice 	You have to make a choice.
+8 	make an appointment 	I need to make an appointment.
+9 	make a complaint 	He made a formal complaint.
+10 	make a promise 	She made a promise to return.
+11 	make a suggestion 	Can I make a suggestion?
+12 	make an exception 	We'll make an exception this time.
+13 	make arrangements 	Make arrangements for the trip.
+14 	make a living 	How do you make a living?
+15 	make a mess 	The kids made a mess.
+16 	make friends 	It's easy to make friends here.
+17 	make noise 	Please don't make noise.
+18 	make sense 	This explanation makes sense.
+19 	make sure 	Make sure you lock the door.
+20 	make time 	Make time for your family.
+21 	make trouble 	He always makes trouble.
+22 	make peace 	They finally made peace.
+23 	make war 	Nations should not make war.
+24 	make love 	They made love that night.
+25 	make fun of 	Don't make fun of others.
+26 	make room 	Make room for the new furniture.
+27 	make up your mind 	Make up your mind already!
+28 	make the bed 	Please make the bed every morning.
+29 	make breakfast 	I'll make breakfast for everyone.
+30 	make a phone call 	I need to make a phone call.
+31 	do homework 	Did you do your homework?
+32 	do housework 	She does housework every day.
+33 	do business 	They do business worldwide.
+34 	do a favor 	Could you do me a favor?
+35 	do research 	Scientists do extensive research.
+36 	do damage 	The storm did serious damage.
+37 	do harm 	This medicine won't do any harm.
+38 	do good 	Volunteering does a lot of good.
+39 	do well 	She did well on the exam.
+40 	do badly 	He did badly in the interview.
+41 	do one's best 	Just do your best.
+42 	do the dishes 	I'll do the dishes tonight.
+43 	do the laundry 	We need to do the laundry.
+44 	do the shopping 	He does the shopping on Saturdays.
+45 	do the cooking 	Who does the cooking at home?
+46 	do exercise 	Do exercise regularly for health.
+47 	do justice 	The photo doesn't do her justice.
+48 	do time 	He did time for robbery.
+49 	do without 	We can do without dessert.
+50 	do wonders 	This cream does wonders for skin.
+51 	take action 	We must take action immediately.
+52 	take a break 	Let's take a short break.
+53 	take a chance 	Take a chance and apply.
+54 	take a decision 	The board took a decision.
+55 	take a look 	Take a look at this report.
+56 	take a photo 	Can you take a photo of us?
+57 	take a risk 	Don't take unnecessary risks.
+58 	take a seat 	Please take a seat.
+59 	take a shower 	I take a shower every morning.
+60 	take a walk 	Let's take a walk in the park.
+61 	take advice 	Take my advice and rest.
+62 	take care 	Take care of yourself.
+63 	take charge 	She took charge of the project.
+64 	take effect 	The law takes effect tomorrow.
+65 	take notice 	People are taking notice of the issue.
+66 	take notes 	Take notes during the lecture.
+67 	take offense 	Don't take offense at his words.
+68 	take part 	Everyone should take part.
+69 	take place 	The event takes place next week.
+70 	take pride 	She takes pride in her work.
+71 	take responsibility 	Take responsibility for your actions.
+72 	take time 	Learning takes time and patience.
+73 	take turns 	We should take turns driving.
+74 	take a nap 	I'll take a short nap.
+75 	take medicine 	Take your medicine with food.
+76 	take the bus 	I take the bus to work.
+77 	take an exam 	He's taking an exam today.
+78 	take a course 	I'm taking a Spanish course.
+79 	take someone's word 	Take my word for it.
+80 	take into account 	Take all factors into account.
+81 	have breakfast 	I have breakfast at 7 AM.
+82 	have lunch 	Let's have lunch together.
+83 	have dinner 	We're having dinner at 8.
+84 	have a drink 	Shall we have a drink?
+85 	have a snack 	I'll have a quick snack.
+86 	have a rest 	You need to have a rest.
+87 	have a bath 	I like to have a bath in the evening.
+88 	have a conversation 	We had a long conversation.
+89 	have a discussion 	Let's have a discussion about this.
+90 	have an argument 	They had a heated argument.
+91 	have a fight 	The boys had a fight.
+92 	have a meeting 	We're having a meeting at noon.
+93 	have a party 	They're having a birthday party.
+94 	have a good time 	Did you have a good time?
+95 	have a bad day 	I'm having a bad day.
+96 	have a headache 	I have a terrible headache.
+97 	have a cold 	She has a cold this week.
+98 	have difficulty 	I have difficulty understanding.
+99 	have an experience 	Have you had this experience?
+100 	have an effect 	This will have an effect.
+101 	heavy rain 	Heavy rain flooded the streets.
+102 	heavy traffic 	There was heavy traffic today.
+103 	heavy snow 	Heavy snow blocked the roads.
+104 	heavy smoker 	He's a heavy smoker.
+105 	heavy drinker 	She became a heavy drinker.
+106 	heavy workload 	I have a heavy workload.
+107 	heavy accent 	He speaks with a heavy accent.
+108 	heavy meal 	Avoid heavy meals before bed.
+109 	heavy sleeper 	He's a heavy sleeper.
+110 	heavy heart 	She left with a heavy heart.
+111 	strong wind 	A strong wind blew the leaves.
+112 	strong coffee 	I need strong coffee this morning.
+113 	strong opinion 	She has strong opinions.
+114 	strong accent 	He speaks with a strong accent.
+115 	strong smell 	There's a strong smell of gas.
+116 	strong support 	The plan has strong support.
+117 	strong evidence 	There's strong evidence against him.
+118 	strong feeling 	I have a strong feeling about this.
+119 	strong bond 	They share a strong bond.
+120 	strong desire 	He has a strong desire to succeed.
+121 	commit a crime 	He committed a serious crime.
+122 	commit suicide 	She threatened to commit suicide.
+123 	commit murder 	He was accused of committing murder.
+124 	commit fraud 	They committed financial fraud.
+125 	commit an offense 	He committed a minor offense.
+126 	commit adultery 	He confessed to committing adultery.
+127 	commit perjury 	She committed perjury in court.
+128 	commit oneself 	Don't commit yourself too early.
+129 	commit to memory 	Commit these facts to memory.
+130 	commit resources 	We must commit more resources.
+131 	pay attention 	Pay attention to the instructions.
+132 	pay a visit 	I'll pay you a visit soon.
+133 	pay a compliment 	He paid her a nice compliment.
+134 	pay respect 	We came to pay our respects.
+135 	pay tribute 	They paid tribute to the hero.
+136 	pay the price 	You'll pay the price for this.
+137 	pay the bill 	Who's going to pay the bill?
+138 	pay a fine 	He had to pay a heavy fine.
+139 	pay cash 	Do you pay by card or cash?
+140 	pay in full 	Please pay the amount in full.
+141 	catch fire 	The building caught fire.
+142 	catch a cold 	I caught a cold last week.
+143 	catch the bus 	Hurry or you'll miss the bus!
+144 	catch someone's eye 	The painting caught my eye.
+145 	catch someone's attention 	He caught her attention.
+146 	catch a glimpse 	I caught a glimpse of her.
+147 	catch your breath 	Stop to catch your breath.
+148 	catch sight of 	I caught sight of an old friend.
+149 	catch the flu 	Many people caught the flu.
+150 	catch off guard 	The question caught me off guard.
+151 	break a record 	She broke the world record.
+152 	break the law 	Don't break the law.
+153 	break a promise 	He broke his promise to her.
+154 	break the news 	Who will break the news to him?
+155 	break a habit 	It's hard to break bad habits.
+156 	break the ice 	A joke helped break the ice.
+157 	break someone's heart 	The news broke her heart.
+158 	break the silence 	Someone finally broke the silence.
+159 	break the rules 	Students who break the rules face consequences.
+160 	break even 	The company just about broke even.
+161 	keep a secret 	Can you keep a secret?
+162 	keep a promise 	Always keep your promises.
+163 	keep a diary 	She keeps a daily diary.
+164 	keep calm 	Keep calm and carry on.
+165 	keep quiet 	Please keep quiet during the test.
+166 	keep in touch 	Let's keep in touch!
+167 	keep track of 	Keep track of your expenses.
+168 	keep an eye on 	Keep an eye on the children.
+169 	keep in mind 	Keep in mind the deadline.
+170 	keep pace with 	It's hard to keep pace with technology.
+171 	save money 	I'm trying to save money.
+172 	save time 	This method saves time.
+173 	save energy 	Turn off lights to save energy.
+174 	save space 	This design saves space.
+175 	save a life 	The doctor saved his life.
+176 	save someone's skin 	He saved my skin in the meeting.
+177 	save face 	He tried to save face.
+178 	save the day 	Her idea saved the day.
+179 	save your breath 	Save your breath; he won't listen.
+180 	save a seat 	Please save me a seat.
+181 	run a business 	She runs her own business.
+182 	run a risk 	Don't run unnecessary risks.
+183 	run a fever 	The child is running a fever.
+184 	run an errand 	I need to run some errands.
+185 	run a test 	Let's run a few tests.
+186 	run the show 	He runs the show around here.
+187 	run late 	Sorry, I'm running late.
+188 	run short of 	We're running short of supplies.
+189 	run out of 	We ran out of milk.
+190 	run wild 	The children ran wild in the park.
+191 	get a job 	She finally got a job.
+192 	get permission 	Did you get permission?
+193 	get the message 	I think he got the message.
+194 	get the impression 	I get the impression he's upset.
+195 	get the chance 	If I get the chance, I'll travel.
+196 	get a shock 	I got a terrible shock.
+197 	get angry 	Don't get angry over small things.
+198 	get ready 	Get ready for school.
+199 	get started 	Let's get started on the project.
+200 	get lost 	They got lost in the woods.
+201 	come to an end 	The concert came to an end.
+202 	come to a decision 	We finally came to a decision.
+203 	come to terms with 	He came to terms with reality.
+204 	come to the point 	Please come to the point.
+205 	come to mind 	Nothing comes to mind right now.
+206 	come to a conclusion 	We came to a conclusion.
+207 	come into effect 	The law comes into effect tomorrow.
+208 	come into fashion 	Short skirts came into fashion.
+209 	come under attack 	The policy came under attack.
+210 	come to light 	New facts came to light.
+211 	give advice 	He gave me useful advice.
+212 	give permission 	The teacher gave permission to leave.
+213 	give a speech 	She gave an inspiring speech.
+214 	give an example 	Can you give me an example?
+215 	give a lecture 	The professor gave a lecture.
+216 	give a hand 	Can you give me a hand?
+217 	give notice 	He gave two weeks' notice.
+218 	give birth 	She gave birth to twins.
+219 	give priority 	Give priority to urgent matters.
+220 	give thought 	Give some thought to my proposal.
+221 	put pressure 	Don't put pressure on yourself.
+222 	put emphasis 	They put emphasis on quality.
+223 	put effort 	Put more effort into your work.
+224 	put an end to 	We must put an end to this.
+225 	put into practice 	Put the theory into practice.
+226 	put in order 	Put your affairs in order.
+227 	put at risk 	Don't put your health at risk.
+228 	put to use 	Put your skills to good use.
+229 	put on weight 	I've put on weight recently.
+230 	put up with 	I can't put up with this noise.
+231 	face reality 	You need to face reality.
+232 	face the truth 	It's time to face the truth.
+233 	face charges 	He's facing serious charges.
+234 	face criticism 	The plan faced harsh criticism.
+235 	face difficulties 	We're facing some difficulties.
+236 	face a challenge 	Ready to face the challenge?
+237 	face the consequences 	You must face the consequences.
+238 	face a problem 	We're facing a big problem.
+239 	face a dilemma 	She faced a moral dilemma.
+240 	face opposition 	The bill faced strong opposition.
+241 	raise a question 	He raised an important question.
+242 	raise awareness 	The campaign raised awareness.
+243 	raise money 	They raised money for charity.
+244 	raise doubts 	This raises some doubts.
+245 	raise concerns 	Experts raised concerns about safety.
+246 	raise standards 	We need to raise standards.
+247 	raise expectations 	Don't raise expectations too high.
+248 	raise your voice 	Don't raise your voice at me!
+249 	raise a family 	She raised a large family.
+250 	raise objections 	Several members raised objections.
+251 	reach a decision 	We finally reached a decision.
+252 	reach an agreement 	They reached an agreement.
+253 	reach a conclusion 	What conclusion did you reach?
+254 	reach a compromise 	Both sides reached a compromise.
+255 	reach a goal 	She reached her goal.
+256 	reach a limit 	We've reached our limit.
+257 	reach a point 	Things reached a critical point.
+258 	reach a verdict 	The jury reached a verdict.
+259 	reach an understanding 	They reached an understanding.
+260 	reach the stage 	The project reached the final stage.
+261 	meet a deadline 	We must meet the deadline.
+262 	meet expectations 	The product met expectations.
+263 	meet requirements 	Does it meet the requirements?
+264 	meet needs 	The service meets our needs.
+265 	meet standards 	The food meets health standards.
+266 	meet a challenge 	Are you ready to meet the challenge?
+267 	meet demand 	Supply fails to meet demand.
+268 	meet a target 	They met their sales target.
+269 	meet someone's eye 	She couldn't meet his eye.
+270 	meet one's match 	He finally met his match.
+271 	hold a meeting 	We're holding a meeting tomorrow.
+272 	hold a conversation 	It's hard to hold a conversation here.
+273 	hold an opinion 	I hold a different opinion.
+274 	hold a position 	She holds a senior position.
+275 	hold someone's attention 	The speaker held our attention.
+276 	hold someone responsible 	They held him responsible.
+277 	hold a belief 	He holds strong beliefs.
+278 	hold the key 	Education holds the key to success.
+279 	hold your breath 	Hold your breath and jump!
+280 	hold the record 	She holds the world record.
+281 	express concern 	Many expressed concern about the plan.
+282 	express interest 	He expressed interest in the job.
+283 	express gratitude 	I'd like to express my gratitude.
+284 	express an opinion 	Feel free to express your opinion.
+285 	express sympathy 	We expressed sympathy for the victims.
+286 	express doubt 	Some experts expressed doubt.
+287 	express surprise 	She expressed surprise at the news.
+288 	express disappointment 	He expressed disappointment with the result.
+289 	express regret 	I express my sincere regret.
+290 	express satisfaction 	They expressed satisfaction with progress.
+291 	achieve success 	She achieved great success.
+292 	achieve a goal 	He achieved his goal.
+293 	achieve results 	We must achieve better results.
+294 	achieve fame 	The artist achieved international fame.
+295 	achieve perfection 	It's impossible to achieve perfection.
+296 	achieve a balance 	Try to achieve a work-life balance.
+297 	achieve consensus 	They achieved consensus on the issue.
+298 	achieve independence 	The country achieved independence.
+299 	achieve recognition 	Her work achieved wide recognition.
+300 	achieve standards 	Students must achieve minimum standards.
+301 	deep sleep 	She was in a deep sleep.
+302 	deep breath 	Take a deep breath and relax.
+303 	deep voice 	He has a deep voice.
+304 	deep trouble 	We're in deep trouble now.
+305 	deep conversation 	We had a deep conversation.
+306 	deep thought 	He was lost in deep thought.
+307 	deep impression 	The film made a deep impression.
+308 	deep understanding 	She has a deep understanding of art.
+309 	deep affection 	He felt deep affection for her.
+310 	deep concern 	There's deep concern about pollution.
+311 	wide range 	We offer a wide range of products.
+312 	wide variety 	There's a wide variety of options.
+313 	wide selection 	The store has a wide selection.
+314 	wide gap 	There's a wide gap between rich and poor.
+315 	wide experience 	She has wide experience in the field.
+316 	wide application 	This technology has wide application.
+317 	wide margin 	He won by a wide margin.
+318 	wide audience 	The show reached a wide audience.
+319 	wide support 	The proposal has wide support.
+320 	wide awake 	I was wide awake all night.
+321 	highly unlikely 	That's highly unlikely to happen.
+322 	highly likely 	Success is highly likely.
+323 	highly recommend 	I highly recommend this book.
+324 	highly competitive 	The market is highly competitive.
+325 	highly successful 	The campaign was highly successful.
+326 	highly skilled 	She's a highly skilled surgeon.
+327 	highly qualified 	Only highly qualified candidates apply.
+328 	highly motivated 	He's highly motivated to succeed.
+329 	highly respected 	She's highly respected in her field.
+330 	highly regarded 	The school is highly regarded.
+331 	bitterly cold 	It was bitterly cold outside.
+332 	bitterly disappointed 	He was bitterly disappointed.
+333 	bitterly opposed 	They're bitterly opposed to the plan.
+334 	bitterly divided 	The country is bitterly divided.
+335 	bitterly regret 	I bitterly regret my decision.
+336 	wildly popular 	The show became wildly popular.
+337 	wildly successful 	The product was wildly successful.
+338 	wildly inaccurate 	The report was wildly inaccurate.
+339 	wildly different 	Their opinions are wildly different.
+340 	wildly enthusiastic 	The crowd was wildly enthusiastic.
+341 	deeply concerned 	I'm deeply concerned about this.
+342 	deeply moved 	We were deeply moved by the story.
+343 	deeply committed 	She's deeply committed to the cause.
+344 	deeply grateful 	I'm deeply grateful for your help.
+345 	deeply involved 	He's deeply involved in the project.
+346 	fully aware 	I'm fully aware of the risks.
+347 	fully understand 	I fully understand your position.
+348 	fully recovered 	She has fully recovered.
+349 	fully equipped 	The kitchen is fully equipped.
+350 	fully committed 	We're fully committed to quality.

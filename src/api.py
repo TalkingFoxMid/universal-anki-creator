@@ -3,10 +3,11 @@
 import os
 import time
 import json
+import asyncio
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, Any, List, Optional
-from anthropic import Anthropic, APIError, RateLimitError, APITimeoutError
+from anthropic import Anthropic, AsyncAnthropic, APIError, RateLimitError, APITimeoutError
 
 
 class ClaudeAPIClient:
@@ -38,6 +39,7 @@ class ClaudeAPIClient:
             )
 
         self.client = Anthropic(api_key=self.api_key)
+        self.async_client = AsyncAnthropic(api_key=self.api_key)
         self.model = model
         self.max_retries = max_retries
         self.verbose = verbose
